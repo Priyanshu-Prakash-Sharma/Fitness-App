@@ -3,6 +3,10 @@
 **ID**: CT6WDS1818                               
 **Domain**: Android Development                              
 **Duration**: August to October 2024        
+
+**Preview of the Fitness app**
+![Fitness_app1](https://github.com/user-attachments/assets/42412f15-09f4-4a68-b078-253bd9f72959)
+![Fitness_app2](https://github.com/user-attachments/assets/e08294e7-3b75-48d4-bf5d-e5525f2d59a6)
 ## Fitness App - Overview
 
 ### Project Description
