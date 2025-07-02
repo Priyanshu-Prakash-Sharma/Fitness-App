@@ -2,7 +2,7 @@
 
 A modern and user-friendly Android app built using **Kotlin** and **Jetpack Compose**, designed to help users complete daily workouts, track calories burned, and calculate BMI. This project focuses on delivering a smooth fitness experience with clean UI and easy tracking.
 
-### 📱 Preview of the Fitness App
+### 📱 Preview of the Fitness Tracker
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/42412f15-09f4-4a68-b078-253bd9f72959" width="25%" />
