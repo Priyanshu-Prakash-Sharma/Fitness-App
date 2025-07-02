@@ -1,4 +1,4 @@
-## 🏋️‍♂️ Fitness App - Overview
+## 🏋️‍♂️ Fitness Tracker
 
 A modern and user-friendly Android app built using **Kotlin** and **Jetpack Compose**, designed to help users complete daily workouts, track calories burned, and calculate BMI. This project focuses on delivering a smooth fitness experience with clean UI and easy tracking.
 
